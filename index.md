@@ -5,4 +5,4 @@ Team members:
 
 * [Albert Schueller](Albert)
 * [Felix Hernandez](Felix)
-* Bella Yang
+* Bella
